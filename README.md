@@ -36,7 +36,4 @@ This process continues until the user either gets the answer right or gives up. 
 proper string will be displayed and an appropriate message will be printed to the screen. At this
 point, a new string will be randomly selected from the database and the game will continue with a
 new guessing round. Of course, “quit” can be selected at any time.
-To make the game more interesting, you must keep score. We will assume that a user can play up to
-one hundred games (you will get tired of this after 2 or 3 rounds). For each game/word, you must
-do the following. Each letter in the English language is used with a certain frequency (“e” is the most
-common letter, “z” the least). The table of frequencies is given later in this document.
+To make the game more interesting, you must keep score. 
