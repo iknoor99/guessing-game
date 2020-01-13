@@ -10,16 +10,25 @@ letter at a time. The initial screen might look like this:
 
 
 ** The great guessing game **
+
 Current Guess: ----
+
 g = guess, t = tell me, l for a letter, and q to quit
+
 If the letter option is chosen (“l”), the user will enter a possible letter and the program will indicate
 how many such letters there are in this string. It will then replace one or more of the “-“ values with
 this letter and redisplay the result. It might look like this, if ‘a’ is chosen:
+
 l
+
 Enter a letter:
+
 a
+
 You found 1 letters
+
 Current Guess: --ag
+
 = guess, t = tell me, l for a letter, and q to quit
 
 
